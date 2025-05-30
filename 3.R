@@ -21,3 +21,12 @@ sorted_desc <- sort(text_vector, decreasing = TRUE)
 
 # 3.6 Posortuj wektor rosnąco
 sorted_asc <- sort(text_vector)
+
+# Wektor logiczny
+logical_vector <- c(TRUE, FALSE, TRUE, FALSE, TRUE)
+
+# 3.7 Wyświetl numery indeksów dla wartości TRUE
+true_indices <- which(logical_vector)
+
+# 3.8 Przeprowadź negację wszystkich wartości wektora
+negated_vector <- !logical_vector
