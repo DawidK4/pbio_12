@@ -48,8 +48,8 @@ print(paste("R matrix[2][3]: ", element_r_matrix))
 
 # Python (lista list/macierz)
 # matrix_python = [[1, 2, 3],
-                 [4, 5, 6],
-                 [7, 8, 9]]
+#                 [4, 5, 6],
+#                 [7, 8, 9]]
 # row_python_matrix = matrix_python[1]
 
 # R
