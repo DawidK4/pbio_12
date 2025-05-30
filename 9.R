@@ -1,5 +1,5 @@
 # 9.1 Instalacja i aktywacja pakietu dplyr oraz wczytanie danych
-install.packages("dplyr")      # uruchom tylko raz, potem możesz zakomentować
+install.packages("dplyr")    
 library(dplyr)
 
 # Wczytaj dane z pliku CSV
